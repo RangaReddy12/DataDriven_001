@@ -3,20 +3,20 @@ package commonFunctions;
 public class Demo {
 public void add()
 {
-	int a=4566;
-	int b=456;
+	int a=678;
+	int b=6;
 	int c=a+b;
 	System.out.println(c);
 }
 
 public void div()
 {
-	int a=67676;
-	int b=5;
+	int a=456;
+	int b=4;
 	int c=a/b;
 	System.out.println(c);
 }
-public void sub()
+public void mul()
 {
 	int a=543654;
 	int b=89;
